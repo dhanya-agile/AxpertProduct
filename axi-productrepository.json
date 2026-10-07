@@ -1,0 +1,20 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "ERP Test 001",
+      "ProductDescription": "ERP Test 001",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-07T12:54:04Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Test",
+        "001"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
