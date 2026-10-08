@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "Data fetched successfully",
+  "hasData": true,
+  "resultpayload": {
+    "axputpayloads": {
+      "ARMSessionId": "ARM-devpgbase114-79447efd-d5e7-4214-9371-c5039ea076f0",
+      "trace": true,
+      "validateonly": false,
+      "axclient_dateformat": "yyyy-MM-dd",
+      "millisecsintimestamp": true,
+      "data": [
+        {
+          "transid": "sect",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "pageno": "1791437887988",
+                "caption": "axi_agilelabs",
+                "AxpFilePath_hpImages": "D:\\\\qabiz\\\\Axpert11.4Base\\\\AxpertWeb\\\\devpgbase114\\\\HTMLPages\\\\images\\\\*",
+                "isacoretrans": "Yes",
+                "menuposition": "Default"
+              }
+            },
+            "dc2": {
+              "row1": {
+                "html_editor_htmlsrc": "<!DOCTYPE html> <html lang=\"en\"> <head>     <meta charset=\"UTF-8\">     <title>AgileLabs in Caps</title>     <style>         .uppercase-text {             text-transform: uppercase;             font-family: sans-serif;             font-size: 24px;         }     </style> </head> <body>      <p class=\"uppercase-text\">AgileLabs</p>  </body> </html>"
+              }
+            },
+            "dc3": {}
+          }
+        }
+      ]
+    }
+  }
+}
