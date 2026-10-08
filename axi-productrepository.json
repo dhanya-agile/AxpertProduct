@@ -43,6 +43,20 @@
         "CustomPageCheck"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi_CustomPageCheck2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-08T06:25:06Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "CustomPageCheck2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
