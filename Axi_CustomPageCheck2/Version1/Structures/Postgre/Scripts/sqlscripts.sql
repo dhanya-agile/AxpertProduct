@@ -1,0 +1,3 @@
+<<
+INSERT INTO axpages (name,caption,props,blobno,img,visible,type,parent,ordno,levelno,updatedon,createdon,importedon,createdby,updatedby,importedby,readonly,updusername,category,pagetype,intview,webenable,shortcut,icon,websubtype,workflow,oldappurl) VALUES ('HP1791437887988','axi_agilelabs','htmlPages.aspx?load=1791437887988',1,NULL,'T','p',NULL,(SELECT COALESCE(MAX(ordno),0) + 1 FROM axpages),0,'08/10/2026 11:01:09 AM','08/10/2026 11:01:09 AM',NULL,'karthik','karthik',NULL,NULL,NULL,NULL,'web',NULL,NULL,NULL,NULL,'htmlpage',NULL,NULL)
+>>
