@@ -15,6 +15,20 @@
         "001"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi_CP",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-08T06:06:17Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "CP"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
